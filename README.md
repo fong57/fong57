@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi this is fong57👋
+# I am new to GitHub and do not know anything about coding!
 
 <!--
 **fong57/fong57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
